@@ -1,0 +1,6 @@
+C:\Users\computer1\Documents\SET\Courses\semester3\Software quality\ems final\EMS - Solution without unit tests\EMS\bin\Debug\EMS.exe.config
+C:\Users\computer1\Documents\SET\Courses\semester3\Software quality\ems final\EMS - Solution without unit tests\EMS\bin\Debug\EMS.exe
+C:\Users\computer1\Documents\SET\Courses\semester3\Software quality\ems final\EMS - Solution without unit tests\EMS\bin\Debug\EMS.pdb
+C:\Users\computer1\Documents\SET\Courses\semester3\Software quality\ems final\EMS - Solution without unit tests\EMS\obj\Debug\EMS.csprojResolveAssemblyReference.cache
+C:\Users\computer1\Documents\SET\Courses\semester3\Software quality\ems final\EMS - Solution without unit tests\EMS\obj\Debug\EMS.exe
+C:\Users\computer1\Documents\SET\Courses\semester3\Software quality\ems final\EMS - Solution without unit tests\EMS\obj\Debug\EMS.pdb
